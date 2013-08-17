@@ -1,0 +1,4 @@
+# Arquivos do Banco de dados
+var/blobstorage
+var/filestorages/Data.fs
+
